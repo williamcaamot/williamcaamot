@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=theme_name)
+
 <!--
 **williamcaamot/williamcaamot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
