@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - Eksamen i Webutvikling og API design: https://eksamen-03c767ee6443.herokuapp.com/
+- Sideprosjekt: https://www.ernær.no
 
 
 <img src="https://komarev.com/ghpvc/?username=williamcaamot&style=flat-square&color=blue" alt=""/>
