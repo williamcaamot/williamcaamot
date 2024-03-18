@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 - Eksamen i Webutvikling og API design: https://eksamen-03c767ee6443.herokuapp.com/
-- Sideprosjekt: https://www.ernær.no
-
 
 <img src="https://komarev.com/ghpvc/?username=williamcaamot&style=flat-square&color=blue" alt=""/>
 
-<img src="https://imagedelivery.net/z2m6Ed4QzlmrjzOwceQIvQ/d45dffd1-6d6d-4ebe-1f63-1c1f47ad7200/ernaerMeals"/>
+<a href="https:/www.ernær.no">
+    <img src="https://imagedelivery.net/z2m6Ed4QzlmrjzOwceQIvQ/d45dffd1-6d6d-4ebe-1f63-1c1f47ad7200/ernaerMeals"/>
+</a>
+
 
 <!--
 **williamcaamot/williamcaamot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
