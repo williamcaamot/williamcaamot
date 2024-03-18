@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=williamcaamot&style=flat-square&color=blue" alt=""/>
 
-<a href="https:/www.ernær.no">
+<a href="https://www.ernær.no">
     <img src="https://imagedelivery.net/z2m6Ed4QzlmrjzOwceQIvQ/d45dffd1-6d6d-4ebe-1f63-1c1f47ad7200/ernaerMeals"/>
 </a>
 
