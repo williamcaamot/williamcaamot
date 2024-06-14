@@ -1,25 +1,23 @@
+# William Coucheron-Aamot
+
 ### Hi there 👋
 
-- Eksamen i Webutvikling og API design: https://eksamen-03c767ee6443.herokuapp.com/
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/william-coucheron-aamot/)
+[<img src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/williamcaamot)
 
-<img src="https://komarev.com/ghpvc/?username=williamcaamot&style=flat-square&color=blue" alt=""/>
-
-<a href="https://www.ernær.no">
-    <img src="https://imagedelivery.net/z2m6Ed4QzlmrjzOwceQIvQ/d45dffd1-6d6d-4ebe-1f63-1c1f47ad7200/ernaerMeals"/>
-</a>
+---
 
 
-<!--
-**williamcaamot/williamcaamot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Høyskolen Kristiania - Programmering
+
+##### Third Semester
+- [PGR301 - Webutvikling og API Design - EKSAMEN](https://github.com/williamcaamot/PG6301_webutvikling_api_design_eksamen) (A)
+- [PG3302 - Software Design - EKSAMEN (FlexusWorkout)](https://github.com/williamcaamot/PG3302_Software_Design_Exam_FlexusWorkout) (A)
+
+
+
+#### Personal Projects
+- [Ernær.no](https://www.ernær.no) (A)
