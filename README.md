@@ -7,6 +7,11 @@
 
 ---
 
+#### Personal Projects
+- [Ernær.no](https://www.ernær.no)
+
+---
+
 #### Høyskolen Kristiania - Programmering
 
 ##### Third Semester
@@ -20,6 +25,3 @@
 - [PGR209 - Kartbasert Webutvikling - EKSAMEN](https://github.com/williamcaamot/KWS2100_Kartbasert_Webutvikling_Exam/settings) (A)
 
 
-
-#### Personal Projects
-- [Ernær.no](https://www.ernær.no)
