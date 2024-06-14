@@ -7,17 +7,19 @@
 
 ---
 
-
-
----
-
 #### Høyskolen Kristiania - Programmering
 
 ##### Third Semester
 - [PGR301 - Webutvikling og API Design - EKSAMEN](https://github.com/williamcaamot/PG6301_webutvikling_api_design_eksamen) (A)
 - [PG3302 - Software Design - EKSAMEN (FlexusWorkout)](https://github.com/williamcaamot/PG3302_Software_Design_Exam_FlexusWorkout) (A)
+- [PGR209 - Backendprogrammering - EKSAMEN](https://github.com/williamcaamot/williamcaamot-PGR209_Backend_Programmering_exam) (A)
+
+##### Fourth Semester
+- [PGR107 - Python Programming - EKSAMEN](https://github.com/williamcaamot/PGR107_Python_Programming_Exam) (A)
+- [PG3302 - Agile Project / Smidig Prosjekt - EKSAMEN (Flexr)](https://github.com/williamcaamot/arcturus) (TBD)
+- [PGR209 - Kartbasert Webutvikling - EKSAMEN](https://github.com/williamcaamot/KWS2100_Kartbasert_Webutvikling_Exam/settings) (A)
 
 
 
 #### Personal Projects
-- [Ernær.no](https://www.ernær.no) (A)
+- [Ernær.no](https://www.ernær.no)
