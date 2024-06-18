@@ -9,6 +9,7 @@
 
 #### Personal Projects
 - [Ernær.no](https://www.ernær.no)
+- [Selskapsradar.no](https://www.selskapsradar.no)
 
 ---
 
