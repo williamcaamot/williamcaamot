@@ -21,6 +21,6 @@
 ##### Fourth Semester
 - [PGR107 - Python Programming - EKSAMEN](https://github.com/williamcaamot/PGR107_Python_Programming_Exam) (A)
 - [PG3302 - Agile Project / Smidig Prosjekt - EKSAMEN (Flexr)](https://github.com/williamcaamot/arcturus) (A)
-- [PGR209 - Kartbasert Webutvikling - EKSAMEN](https://github.com/williamcaamot/KWS2100_Kartbasert_Webutvikling_Exam/settings) (A)
+- [PGR209 - Kartbasert Webutvikling - EKSAMEN](https://github.com/williamcaamot/KWS2100_Kartbasert_Webutvikling_Exam) (A)
 
 
