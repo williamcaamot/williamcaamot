@@ -25,4 +25,4 @@
 
 
 ##### Fifth Semester
-- [PGR301 - DevOps i Skyen - EKSAMEN](https://github.com/williamcaamot/PGR301_exam) (TBD)
+- [PGR301 - DevOps i Skyen - EKSAMEN](https://github.com/williamcaamot/PGR301_exam) (A)
