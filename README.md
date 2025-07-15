@@ -27,6 +27,9 @@
 
 ##### Fifth Semester
 - [PGR301 - DevOps i Skyen - EKSAMEN](https://github.com/williamcaamot/PGR301_exam) (A)
-- [PGR3403 - Mikrotjenester / Microservices - EKSAMEN](https://github.com/williamcaamot/MicroservicesV2) (TBD)
+- [PGR3403 - Mikrotjenester / Microservices - EKSAMEN](https://github.com/williamcaamot/MicroservicesV2) (A)
+
+##### Sixth Semester
+- [BAO302 - Bachelorprosjekt - Konfidensielt]() (A)
 
 
