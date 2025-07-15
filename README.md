@@ -30,6 +30,6 @@
 - [PGR3403 - Mikrotjenester / Microservices - EKSAMEN](https://github.com/williamcaamot/MicroservicesV2) (A)
 
 ##### Sixth Semester
-- [BAO302 - Bachelorprosjekt - Konfidensielt]() (A)
+- BAO302 - Bachelorprosjekt - Konfidensielt (A)
 
 
